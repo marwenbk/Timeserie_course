@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+scipy==1.12.0
+statsmodels==0.14.1
+scikit-learn==1.4.0
+pmdarima==2.0.4
+seaborn==0.13.2
+# prophet has been removed temporarily as it can be complex to install
