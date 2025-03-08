@@ -7,3 +7,4 @@ scikit-learn==1.4.0
 pmdarima==2.0.4
 seaborn==0.13.2
 # prophet has been removed temporarily as it can be complex to install
+requests==2.31.0
